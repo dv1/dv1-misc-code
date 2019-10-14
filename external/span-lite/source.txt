@@ -1,0 +1,2 @@
+https://github.com/martinmoene/span-lite
+Release v0.6.0
